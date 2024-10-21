@@ -11,7 +11,7 @@ Also I'll be removing support for aliases completely since fish performs beter w
 
 There's more enhancements and performance tweaks on the way.  Be patient.  :-)
 
-Oh, and thank you for any and all feedback and for trying this out.
+Oh, and thank you for any and all feedback and for trying this out....
 
 --Kerry
 
