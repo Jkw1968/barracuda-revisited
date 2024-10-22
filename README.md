@@ -4,7 +4,7 @@ Theme For Fish-Shell much like BudSpencer but better in my opinion
 <h2>Theme For Fish-Shell much like BudSpencer but better in my opinion</h2>
 
 <p>
-This theme was originally authored by someone else but due to lack of updates, I've decided to take matters into my own hands.  I've added support for containerized distros, prooted distros and even more support for termux.  I've removed support for antiquited apps like lza and lxa and replaced them with the lsd ls replacement. The lsd binary should be available for all major distros which is a much better ls replacement.  There's still work to be done like fixing the __baracuda_detach_session function(s) which is redundant since fish shell has those functions built in.
+This theme was originally authored by Marvin Eversley Silva <meverss@gmail.com> but due to lack of updates, I've decided to take matters into my own hands.  I've added support for containerized distros, prooted distros and even more support for termux.  I've removed support for antiquited apps like lza and lxa and replaced them with the 'lsd' ls replacement. The lsd package should be available for all major distros which is a much better ls replacement.  There's still work to be done like fixing the __baracuda_detach_session function(s) which is redundant since fish shell has those functions built in.
 
 <p>  
 Also I'll be removing support for aliases completely since fish performs beter when using function.  Instead...please use 'alias -s shorthand "longhand"'.  This will create a function for the alias you wish to create in ~/.config/fish/functions.
