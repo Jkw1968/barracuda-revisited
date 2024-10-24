@@ -3,7 +3,7 @@
 <h2><em>Theme For Fish-Shell much like BudSpencer but better in my opinion</em></h2>
 
 <p>
-This theme is a fork of barracuda theme for fish-shell.  It was originally authored by Marvin Eversley Silva meverss@gmail.com.
+This theme is a fork of barracuda theme for fish-shell.  It was originally authored by Marvin Eversley Silva<a href="meverss@gmail.com">meverss@gmail.com</a>
 
 The potential for this theme is almost endless which is why I've started putting time into this project.
 <p>
