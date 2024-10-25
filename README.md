@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<header></header>
+<header>Barracude Revisited</header>
+<body bgcolor="FFFFFF">
 <h2><em>Theme For Fish-Shell much like BudSpencer but better in my opinion</em></h2>
 
 <p>
@@ -29,4 +30,5 @@ Oh, and thank you for any and all feedback and for trying this out....
 If you like these changes, you can buy me a cup of coffee here:
 
 eth 0xD679b5BE2a8e00252A598058fDfc778105268d79
+</body>
 </html>
