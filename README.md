@@ -18,7 +18,7 @@ those functions built in.
 Also I'll be removing support for aliases completely since fish performs beter when using functions.  
 Instead...please use 'alias -s shorthand "longhand"'.  This will create a function for the alias you wish to create in 
 ~/.config/fish/functions.  I'll include the most basic of funtions needed to speed up your workflow.  If you don't like/want
-them you can eith remove them or edit them without any ill effects to the theme.  I'll also include "manified" help pages 
+them you can either remove them or edit them without any ill effects to the theme.  I'll also include "manified" help pages 
 in three languages...English, Spanish and German.
 
 There's more enhancements and performance tweaks on the way.  Be patient.  :-)
